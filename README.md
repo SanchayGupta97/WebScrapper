@@ -1,14 +1,14 @@
 # WebScrapper
 This is a web scrapper using the BeautifulSoup4 
 ---
-This scrapes the basic details from the europa.eu/youth/volunteeer sites fro projects and organisations
+This scrapes the basic details from the europa.eu/youth/volunteeer sites for projects and organisations
 
 ## How to use (for linux)
 create a  virtualenv
-  virtualenv -p python3 venv
+  <code>virtualenv -p python3 venv</code>
 
 Activate the environment using
-  source venv/bin/activate
+  <code>source venv/bin/activate</code>
   
 Install dependencies
-  pip3 install -r requirement.txt
+ <code> pip3 install -r requirement.txt</code>
